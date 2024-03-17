@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1673384147 source:d:\c++ probleme\elsa\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<chrono>
+	<thread>
+

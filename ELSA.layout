@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="conjugari_verbe.txt" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1036" topLine="76" />
+		</Cursor>
+	</File>
+	<File name="familie.txt" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14355" topLine="184" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="28" />
+			<Collapse line="35" />
+			<Collapse line="45" />
+			<Collapse line="51" />
+			<Collapse line="56" />
+			<Collapse line="61" />
+			<Collapse line="66" />
+			<Collapse line="78" />
+			<Collapse line="192" />
+			<Collapse line="222" />
+			<Collapse line="263" />
+			<Collapse line="291" />
+			<Collapse line="307" />
+			<Collapse line="334" />
+			<Collapse line="352" />
+			<Collapse line="366" />
+			<Collapse line="407" />
+			<Collapse line="427" />
+			<Collapse line="439" />
+			<Collapse line="468" />
+			<Collapse line="475" />
+		</Folding>
+	</File>
+	<File name="sanatate.txt" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="raspunsuri_keywords.txt" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="834" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bani.txt" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="59" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
